@@ -1,6 +1,6 @@
 //
-//  _ios_generic_stopwatchApp.swift
-//  _ios_generic_stopwatch
+//  animated_stopwatchApp.swift
+//  animated_stopwatch
 //
 //  Created by jumango pussu on 2021/12/08.
 //
@@ -8,7 +8,7 @@
 import SwiftUI
 
 @main
-struct _ios_generic_stopwatchApp: App {
+struct animated_stopwatchApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
